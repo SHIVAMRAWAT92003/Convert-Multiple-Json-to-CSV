@@ -1,0 +1,6 @@
+pandas
+json
+streamlit
+re
+datatime
+chardet
