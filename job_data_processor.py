@@ -190,7 +190,7 @@ class JsonToCsvConverter:
 
 
 def main():
-    st.title("JobDataProcessor")
+    st.title("Convert mutliple json files to CSV file :(JobDataProcessor)")
     uploaded_files = st.file_uploader("Upload JSON files", type="json", accept_multiple_files=True)
 
     if uploaded_files:
